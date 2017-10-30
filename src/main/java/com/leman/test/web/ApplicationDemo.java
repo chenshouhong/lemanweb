@@ -14,5 +14,7 @@ public class ApplicationDemo {
         HashMap map = new HashMap<String,Object>();
 
         System.out.println(1234);
+
+        System.out.println(1234);
     }
 }
